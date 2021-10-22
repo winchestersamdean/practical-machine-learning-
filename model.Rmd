@@ -7,7 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-setwd("C:/Users/arya/Desktop/coursera/R_pro/Rstudio/practical machine learning/week4")
+setwd("C:/Users/mac/Desktop/coursera/R_pro/Rstudio/practical machine learning/week4")
 ```
 
 ## Import necessary Libraries
